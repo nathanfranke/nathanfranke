@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nathanfranke/nathanfranke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>[My Website](https://nathan.gq)</strong> (Powered by [landr.me](https://landr.me))
 
-Here are some ideas to get you started:
+Check out these organizations:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Godot Engine](https://github.com/godotengine) (Game Engine)
+- [Matrix.org](https://github.com/matrix-org) (Communications Protocol)
+- [LBRY](https://github.com/lbryio) (Social Platform)
+
+Current projects (Mostly private):
+
+- Some Godot Games
+- Discord Bot
+- [Pwrd](https://github.com/nathanfranke/Pwrd)
+- Secret projects I might release eventually :)
