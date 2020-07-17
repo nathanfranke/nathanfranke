@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<strong>[My Website](https://nathan.gq)</strong> (Powered by [landr.me](https://landr.me))
+**[My Website](https://nathan.gq)** (Powered by [landr.me](https://landr.me))
 
 Check out these organizations:
 
@@ -14,3 +14,13 @@ Current projects (Mostly private):
 - Discord Bot
 - [Pwrd](https://github.com/nathanfranke/Pwrd)
 - Secret projects I might release eventually :)
+
+11 years of using computers:
+
+- **Java**: 5 years
+- **C#**: 4 years
+- **Web Development**: 2 years
+- **TypeScript**: 2 years
+- **Godot Engine**: 2 years
+- **C++**: 1 year
+- **Python**: None
