@@ -23,4 +23,4 @@ Current projects (Mostly private):
 - **TypeScript**: 2 years
 - **Godot Engine**: 2 years
 - **C++**: 1 year
-- **Python**: None
+- **Python**: In Progress
