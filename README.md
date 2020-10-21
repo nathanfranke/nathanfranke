@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**[My Website](https://nathan.gq)** (Powered by [landr.me](https://landr.me))
+**[My Website](https://nathan.gq)**
 
 Check out these organizations:
 
