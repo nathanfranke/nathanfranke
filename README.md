@@ -1,26 +1,22 @@
-### Hi there 👋
+### Hi there! 👋
+### [My Website](https://nathan.gq)
 
-**[My Website](https://nathan.gq)**
+Organizations I'm interested in or have contributed to:
 
-Check out these organizations:
+- **[Godot Engine](https://github.com/godotengine)** (Game Engine)
+- **[Matrix.org](https://github.com/matrix-org)** (Communications Protocol)
+- **[LBRY](https://github.com/lbryio)** (Social Platform)
 
-- [Godot Engine](https://github.com/godotengine) (Game Engine)
-- [Matrix.org](https://github.com/matrix-org) (Communications Protocol)
-- [LBRY](https://github.com/lbryio) (Social Platform)
+Released projects:
 
-Current projects (Mostly private):
+- **Dissonance** (Discord Bot) - https://dissonance.nathan.gq/
+- **Pwrd** (Password Manager) - https://pwrd.ga/
+- **BlockShuffle** (Minecraft Plugin) - https://github.com/nathanfranke/blockshuffle/
 
-- Some Godot Games
-- Discord Bot
-- [Pwrd](https://github.com/nathanfranke/Pwrd)
-- Secret projects I might release eventually :)
+Current projects:
 
-11 years of using computers:
+- **ArcadeBot** (Discord Bot) - https://arcadebot.ga
 
-- **Java**: 5 years
-- **C#**: 4 years
-- **Web Development**: 2 years
-- **TypeScript**: 2 years
-- **Godot Engine**: 2 years
-- **C++**: 1 year
-- **Python**: In Progress
+Demos:
+- **Flappy Bird** - https://flappy.nathan.gq/
+- **Clonagon** - https://clonagon.nathan.gq/
