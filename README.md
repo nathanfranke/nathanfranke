@@ -10,7 +10,6 @@ Organizations I'm interested in or have contributed to:
 Released projects:
 
 - **Dissonance** (Discord Bot) - https://dissonance.nathan.gq/
-- **Pwrd** (Password Manager) - https://pwrd.ga/
 - **BlockShuffle** (Minecraft Plugin) - https://github.com/nathanfranke/blockshuffle/
 
 Current projects:
