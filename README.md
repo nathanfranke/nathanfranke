@@ -1,21 +1,22 @@
-### Hi there! 👋
-### [My Website](https://nathan.gq)
+### 👋 [My Website](https://nathan.gq) 👋
 
-Organizations I'm interested in or have contributed to:
+Organizations I'm interested in:
 
 - **[Godot Engine](https://github.com/godotengine)** (Game Engine)
 - **[Matrix.org](https://github.com/matrix-org)** (Communications Protocol)
-- **[LBRY](https://github.com/lbryio)** (Social Platform)
 
 Released projects:
 
 - **Dissonance** (Discord Bot) - https://dissonance.nathan.gq/
 - **BlockShuffle** (Minecraft Plugin) - https://github.com/nathanfranke/blockshuffle/
+- **gdaudioext** (Godot Module) - https://github.com/nathanfranke/gdaudioext/
 
 Current projects:
 
-- **ArcadeBot** (Discord Bot) - https://arcadebot.ga
+- **ArcadeBot** (Discord Bot) - https://arcade.nathan.gq/
 
-Demos:
-- **Flappy Bird** - https://flappy.nathan.gq/
-- **Clonagon** - https://clonagon.nathan.gq/
+Games/Prototypes:
+- **Flappy Bird** - https://playground.nathan.gq/flappy-bird/
+- **Clonagon** - https://playground.nathan.gq/clonagon/
+- **Tanks a lot!** - https://playground.nathan.gq/tanks-a-lot/
+- **Almost Massive** - https://playground.nathan.gq/almost-massive/
