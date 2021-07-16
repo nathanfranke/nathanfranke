@@ -1,4 +1,5 @@
-### 👋 [My Website](https://nathan.gq) 👋
+### 👋 🎉 😃 💻
+### [My Website](https://nathan.gq)
 
 Organizations I'm interested in:
 
