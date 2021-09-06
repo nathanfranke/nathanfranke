@@ -1,23 +1,20 @@
-### 👋 🎉 😃 💻
-### [My Website](https://nathan.gq)
+# [Nathan Franke](https://nathan.sh)
 
-Organizations I'm interested in:
+🎉 Accomplishments:
 
-- **[Godot Engine](https://github.com/godotengine)** (Game Engine)
-- **[Matrix.org](https://github.com/matrix-org)** (Communications Protocol)
+- [**Fiverr**](https://www.fiverr.com/nathanwfranke/) - 5★ Level Two Seller with dozens of happy customers
+- [**Dissonance**](https://sites.nathan.sh/dissonance/) - Discord Bot with over 100,000 users
+- [**OpenPlayer**](https://github.com/nathanfranke/open-player/) - Music Player and Manager
 
-Released projects:
+😃  Projects:
 
-- **Dissonance** (Discord Bot) - https://dissonance.nathan.gq/
-- **BlockShuffle** (Minecraft Plugin) - https://github.com/nathanfranke/blockshuffle/
-- **gdaudioext** (Godot Module) - https://github.com/nathanfranke/gdaudioext/
+- [**ArcadeBot**](https://sites.nathan.sh/arcadebot/) - Games Discord Bot
+- [**BlockShuffle**](https://github.com/nathanfranke/blockshuffle/) - Minecraft Minigame Plugin
+- [**gdaudioext**](https://github.com/nathanfranke/gdaudioext/) - Godot Engine Extended Audio Support
 
-Current projects:
+💻 Games:
 
-- **ArcadeBot** (Discord Bot) - https://arcade.nathan.gq/
-
-Games/Prototypes:
-- **Flappy Bird** - https://playground.nathan.gq/flappy-bird/
-- **Clonagon** - https://playground.nathan.gq/clonagon/
-- **Tanks a lot!** - https://playground.nathan.gq/tanks-a-lot/
-- **Almost Massive** - https://playground.nathan.gq/almost-massive/
+- [Clony Bird](https://sites.nathan.sh/clony-bird)
+- [Clonagon](https://sites.nathan.sh/clonagon)
+- [Tanks a lot!](https://sites.nathan.sh/tanks-a-lot)
+- [Almost Massive](https://sites.nathan.sh/almost-massive)
