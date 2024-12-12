@@ -1,3 +1,6 @@
-### Hello, ask me anything
+# Hello, ask me anything!
 
-[Fiverr](https://www.fiverr.com/nathanwfranke)
+**Email: [nathanfranke@pm.me](mailto:nathanfranke@pm.me)** \
+**Matrix: [@nathanfranke:matrix.org](https://matrix.to/#/@nathanfranke:matrix.org)** \
+**Fiverr: [nathanwfranke](https://www.fiverr.com/nathanwfranke)** \
+**Website: [nathan.sh](https://nathan.sh)**
