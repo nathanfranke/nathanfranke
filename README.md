@@ -5,4 +5,4 @@
 **Matrix: [@nathanfranke:matrix.org](https://matrix.to/#/@nathanfranke:matrix.org)** \
 **Website: [nathan.sh](https://nathan.sh)**
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nathanfranke&custom_title=Contribution%20Graph&theme=react&days=40&height=300)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nathanfranke&custom_title=Commit%20Activity&theme=react&days=40&height=300)](https://github.com/Ashutosh00710/github-readme-activity-graph)
